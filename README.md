@@ -1,5 +1,3 @@
-# resume
-latex code for resume file -
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Deedy - One Page Two Column Resume
 % LaTeX Template
@@ -77,7 +75,7 @@ latex code for resume file -
 &
 \begin{minipage}[t]{0.67\textwidth}
     \namesection{}{Lakshya Raj Vijay}{ \urlstyle{same}
-     9602524537 | \href{mailto:20laravi03@gmail.com}{20laravi03@gmail.com}
+     \bf 9602524537 | \href{mailto:20laravi03@gmail.com}{\bf 20laravi03@gmail.com}
     }
 \end{minipage}
 \end{tabular}
@@ -97,22 +95,22 @@ latex code for resume file -
 
 \section{Education} 
 
-\subsection{SRM University KTR}
+\subsection{SRM University Ktr}
 \descript{B.Tech in Computer Science}
 \location{2021 - 2025 | Chennai, India}
-\location{ Current CGPA: 8.64 / 10.0}
+\location{ Current CGPA: 8.6 / 10.0}
 \sectionsep
 
 \subsection{TILAK PUBLIC SCHOOL}
 \descript{XII Standard}
 \location{June 2021|  Jaipur, India}
-\location{ Percentage: 84.4 / 100.0}
+\location{ Percentage: 85 / 100}
 \sectionsep
 
-\subsection{MPS, PRATAP NAGAR}
+\subsection{Maheshwari Public School}
 \descript{X Standard}
 \location{May 2019 | Jaipur, India}
-\location{ Percentage: 90.8 / 100.0}
+\location{ Percentage: 91 / 100}
 \sectionsep
 
 
@@ -148,12 +146,12 @@ Data Engineering
 
 \section{Skills}
 
-\subsection{Web Development}
-\textbullet{} Javascript \textbullet{} HTML/CSS \textbullet{} React.js\\ \textbullet{} Express.js \ \textbullet{} MongoDB\textbullet{} Node.js\\ \textbullet{} Tailwind \textbullet{} Flask \textbullet{} FastApi\textbullet{} Postman \\ \sectionsep
+\subsection{FULLSTACK}
+\textbullet{} Javascript \textbullet{} Html/Css \textbullet{} MongoDB\\ \textbullet{} Express.js \ \textbullet{} React.js \textbullet{} Node.js \textbullet{}Java\\ \textbullet{} Tailwind \textbullet{} Flask \textbullet{} FastApi\textbullet{} Postman \\ \textbullet{} JSF \textbullet{} Hibernate \textbullet{} SQL \sectionsep
 \subsection{AIML}
 \textbullet{}Python \textbullet{} Scikit-learn / Tensorflow \textbullet{}Keras \textbullet{} Matplotlib / Seaborn \textbullet{} NLP\\ \textbullet{} Numpy \textbullet{} Pandas  \textbullet{} Data Analytics \\ \sectionsep
-\subsection{Familiar}
-\textbullet{} C++ \textbullet{} C \textbullet{} SQL \textbullet{} SOLIDITY
+\subsection{Extra}
+\textbullet{} C++  \textbullet{} Solidity \textbullet{} Devops \textbullet{} CI/CD
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -166,8 +164,6 @@ Data Engineering
 \textbf{SRMMUN Society : }Business Relations and Marketing Member
 \\
 \textbf{AARUUSH : }Corporate Strategy and Implementation Member
-\\
-\textbf{Art of Living : }Volunteer
 
 \sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -195,7 +191,7 @@ Data Engineering
 \sectionsep
 
 \runsubsection{AICTE}
-\descript{AI/ML Intern }
+\descript{AIML Intern }
 \location{May 2023 – July 2023 }
 \begin{tightemize}
 \item Gained hands-on experience in AI/ML, mastering tools like Python, scikit-learn, TensorFlow, and PyTorch.
@@ -229,12 +225,10 @@ Employed Adam optimizer for efficient model training and integrated Mask R-CNN f
 
 \sectionsep
 
-\runsubsection{MedScan}
+\runsubsection{IdeaForge}
 \descript{ }
 
-Designed a streamlit healthcare platform for medical image segmentation using U-Net.
-Implemented a Flask back-end and integrated TensorFlow for model deployment.
-Developed a responsive React.js front-end for visualizing analysis results with OpenCV and scikit-learn.
+Developed IdeaForge, an AI-powered mobile app using Flutter and Node.js that transforms product ideas into comprehensive proposals, UI/UX designs, and website prototypes. Integrated multiple AI models (Gemini, MonsterAPI) to automate the entire product conceptualization process.
 
 
 \sectionsep
@@ -246,7 +240,7 @@ Developed a responsive React.js front-end for visualizing analysis results with 
 \section{ACHIEVEMENTS}
 \runsubsection{GOGGLE AI HACKATHON}
 \descript{| WINNER }
-\location{3\textsuperscript{rd} May 2024 | Remote}
+\location{3\textsuperscript{rd} May 2024 | Global Platform}
 Led a team to develop SparkAI, transforming ideas into dynamic content using Google’s GEMINI and AI tools. 
 Secured the "Most Impressive Low-Code Implementation" award, winning recognition by the Google Labs team.
 \sectionsep
